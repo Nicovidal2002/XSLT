@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teaches>
+   <teaches-tuple>
+      <course/>
+      <lecturer/>
+   </teaches-tuple>
+   <teaches-tuple>
+      <course/>
+      <lecturer/>
+   </teaches-tuple>
+</teaches>
